@@ -2,6 +2,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #include QMK_KEYBOARD_H
+#include "keymap_portuguese.h"
 
 enum layers {
     _QWERTY = 0,
